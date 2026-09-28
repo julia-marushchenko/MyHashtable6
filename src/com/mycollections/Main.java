@@ -1,5 +1,5 @@
 /**
- *  Java program to create Hash table instance and manage it.
+ *  Java program to create Hash Table instance and manage it.
  */
 
 package com.mycollections;
